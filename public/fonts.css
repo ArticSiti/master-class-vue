@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "SF Bold";
+  src: url("./fonts/SF/SF-Pro-Display-Bold.otf") format("opentype"); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "SF Light";
+  src: url("./fonts/SF/SF-Pro-Display-Light.otf") format("opentype"); /* Путь к файлу со шрифтом */
+}
